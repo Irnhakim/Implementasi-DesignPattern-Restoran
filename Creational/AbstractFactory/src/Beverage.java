@@ -1,0 +1,3 @@
+interface Beverage {
+    String getName();
+}

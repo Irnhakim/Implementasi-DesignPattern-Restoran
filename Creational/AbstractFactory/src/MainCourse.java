@@ -1,0 +1,3 @@
+interface MainCourse {
+    String getName();
+}
